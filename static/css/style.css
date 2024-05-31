@@ -51,7 +51,7 @@ body {
 
 .nav #logo a {
     color: #007BFF;
-    font-size: 24px;
+    font-size: 40px;
     font-weight: bold;
     line-height: 150%;
     transition: background-color 0.3s ease, color 0.3s ease;
